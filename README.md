@@ -4,8 +4,8 @@ Hi guys! I'm Eren. 😊
 Alone coder
 
 My Social Media Accounts
-- <a href="https://www.instagram.com/cherry.discord/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" height="30" style="max-width: 100%">
-- Discord: † Cherry#0789
+- <a href="https://www.instagram.com/cherry.discord/"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30" style="max-width: 100%">
+- <a href="https://discord.com/users/852785674876092426"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white" height="30" style="max-width: 100%">
 
 Tech I Use
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30" style="max-width: 100%;">
