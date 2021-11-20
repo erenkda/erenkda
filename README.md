@@ -4,7 +4,7 @@ Hi guys! I'm Eren. 😊
 Alone coder
 
 My Social Media Accounts
-- Instagram: cherry.discord
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" height="30" style="max-width: 100%">
 - Discord: † Cherry#0789
 
 Tech I Use
