@@ -14,4 +14,4 @@ Tech I Use
 - PHP
 - C Sharp
 
-https://lanyard-profile-readme.vercel.app/api/852785674876092426
+<a href="https://discord.com/users/852785674876092426" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/852785674876092426"></a>
