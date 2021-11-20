@@ -13,3 +13,5 @@ Tech I Use
 - CSS
 - PHP
 - C Sharp
+
+https://lanyard-profile-readme.vercel.app/api/852785674876092426
