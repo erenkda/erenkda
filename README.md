@@ -3,8 +3,8 @@ Hi guys! I'm Eren. 😊
 Alone coder
 
 My Social Media Accounts
-Instagram: cherry.discord
-Discord: † Cherry#0789
+- Instagram: cherry.discord
+- Discord: † Cherry#0789
 
 Tech I Use
 - Javascript
