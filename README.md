@@ -1,7 +1,5 @@
 <img src="https://camo.githubusercontent.com/a0e3c39a1bfcbe9ff8db9c5cc08737ed7caea0552a28074816a57ccadc21fc94/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c344b684e4267473852614974466b44532f67697068792e676966" align="right" width="300" height="200" data-canonical-src="https://media.giphy.com/media/l4KhNBgG8RaItFkDS/giphy.gif" style="max-width: 100%;">
-Hi guys! I'm Eren. 😊
-</> Discord Developer
-Alone coder
+<p dir="auto">Hi, my name is <em><strong>Eren</strong></em> and I'm 15. I started software development 2 year ago with developing Discord bots. And i continue software development with learning Frontend Web Development</p>
 
 <pre><span class="pl-k">class</span> <span class="pl-v">Cherry</span> <span class="pl-kos">{</span>
     <span class="pl-en">constructor</span><span class="pl-kos">(</span><span class="pl-s1">options</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
