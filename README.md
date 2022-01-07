@@ -4,7 +4,7 @@
 <pre><span class="pl-k">class</span> <span class="pl-v">Cherry</span> <span class="pl-kos">{</span>
     <span class="pl-en">constructor</span><span class="pl-kos">(</span><span class="pl-s1">options</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
         <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">name</span> <span class="pl-c1">=</span> <span class="pl-s">"Eren"</span><span class="pl-kos">,</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">sex</span> <span class="pl-c1">=</span> <span class="pl-s">"man"</span><span class="pl-kos">,</span>
+        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">gender</span> <span class="pl-c1">=</span> <span class="pl-s">"man"</span><span class="pl-kos">,</span>
         <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">length</span> <span class="pl-c1">=</span> <span class="pl-s">"175"</span><span class="pl-kos">,</span>
         <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">type</span> <span class="pl-c1">=</span> <span class="pl-s">"human"</span><span class="pl-kos">,</span>
         <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">job</span> <span class="pl-c1">=</span> <span class="pl-s">"student"</span><span class="pl-kos">,</span>
