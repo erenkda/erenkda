@@ -15,4 +15,4 @@
 
 <span class="pl-smi">module</span><span class="pl-kos">.</span><span class="pl-c1">exports</span> <span class="pl-c1">=</span> <span class="pl-v">Cherry</span></pre>
 
-<a href="https://discord.com/users/852785674876092426" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/852785674876092426"></a>
+<a href="https://discord.com/users/942811253116665887" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/852785674876092426"></a>
