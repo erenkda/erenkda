@@ -1,18 +1,37 @@
-<img src="https://camo.githubusercontent.com/a0e3c39a1bfcbe9ff8db9c5cc08737ed7caea0552a28074816a57ccadc21fc94/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c344b684e4267473852614974466b44532f67697068792e676966" align="right" width="300" height="200" data-canonical-src="https://media.giphy.com/media/l4KhNBgG8RaItFkDS/giphy.gif" style="max-width: 100%;">
-<p dir="auto">Hi, my name is <em><strong>Eren</strong></em> and I'm 15. I started software development 2 year ago with developing Discord bots. And i continue software development with learning Frontend Web Development</p>
+Hi 👋 My name is moment
+=======================
 
-<pre><span class="pl-k">class</span> <span class="pl-v">Cherry</span> <span class="pl-kos">{</span>
-    <span class="pl-en">constructor</span><span class="pl-kos">(</span><span class="pl-s1">options</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">name</span> <span class="pl-c1">=</span> <span class="pl-s">"Eren"</span><span class="pl-kos">,</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">gender</span> <span class="pl-c1">=</span> <span class="pl-s">"man"</span><span class="pl-kos">,</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">length</span> <span class="pl-c1">=</span> <span class="pl-s">"175"</span><span class="pl-kos">,</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">type</span> <span class="pl-c1">=</span> <span class="pl-s">"human"</span><span class="pl-kos">,</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">job</span> <span class="pl-c1">=</span> <span class="pl-s">"student"</span><span class="pl-kos">,</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">weight</span> <span class="pl-c1">=</span> <span class="pl-s">"55"</span><span class="pl-kos">,</span>
-        <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">age</span> <span class="pl-c1">=</span> <span class="pl-s">"15"</span>
-    <span class="pl-kos">}</span><span class="pl-kos">;</span>
-<span class="pl-kos">}</span>
+back-end and front-end developer.
+---------------------------------
 
-<span class="pl-smi">module</span><span class="pl-kos">.</span><span class="pl-c1">exports</span> <span class="pl-c1">=</span> <span class="pl-v">Cherry</span></pre>
+Yaklaşık 3 yıldır profesyonel olarak kod yazıyorum. Şuan 16 yaşındayım.
 
-<a href="https://discord.com/users/942811253116665887" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/852785674876092426"></a>
+* 🌍 Istanbul
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/erenkda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/moment.jsx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/erenkdaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>Github Statiklerim</b>
+
+<a href="http://www.github.com/erenkda"><img src="https://github-readme-stats.vercel.app/api?username=erenkda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="erenkda's GitHub stats" /></a>
+
+<a href="https://github.com/erenkda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
