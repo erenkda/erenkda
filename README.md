@@ -37,4 +37,4 @@ Yaklaşık 3 yıldır profesyonel olarak kod yazıyorum. Şuan 16 yaşındayım.
 <a href="https://github.com/erenkda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<img src="api.lanyard.rest/v1/users/973849939253805086">
+<a href="https://discord.com/users/973849939253805086">  <img src="https://lanyard-profile-readme.vercel.app/api/973849939253805086?hideDiscrim=true"> </a>
